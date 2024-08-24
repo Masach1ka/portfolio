@@ -697,11 +697,13 @@ h2.ttl-works {
   background-image: url('../img/pala-first-img-sp.png');
   padding: 35%;
   background-size: 280px;
+  background-attachment: fixed;  
 }
 .parallax-bg2 {
   background-image: url('../img/pala-second-img-sp.png');
   padding: 35%;
   background-size: 280px;
+  background-attachment: fixed;
 }
 
 /* コンタクトセクション */
